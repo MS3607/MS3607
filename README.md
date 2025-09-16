@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm MITHRAN M S </h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile.gif"
+  <img src="https://raw.githubusercontent.com/MS3607/MS3607/main/profile.gif"
        alt="animated avatar"
        width="160"
        style="border-radius:50%; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
@@ -18,7 +18,7 @@
 ---
 
 ## 🔭 About me
-- 🔸 Full-stack developer (React, Node.js, PostgreSQL)
+- 🔸 Full-stack developer (React, Node.js, mongo db,express)
 - 🔸 Building delightful UIs & reliable systems
 - 🔸 Currently learning WebGPU and Rust
 
